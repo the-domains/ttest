@@ -1,0 +1,28 @@
+name: ttest
+favicon: null
+layout_spectrum: 0.5992771603632718
+typography_spectrum: 0.7023373483680189
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.871375307906419
+  lightness: 0.7107516236137599
+  saturation: 0.5791912095155567
+  rhythmicContrast: 0.5151410731486976
+purpose: []
